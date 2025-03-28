@@ -1,0 +1,10 @@
+{
+  "elementName": "wix-iframe-element",
+  "source": "IframeElement.js",
+  "properties": {
+    "src": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}
